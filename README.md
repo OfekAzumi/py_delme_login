@@ -1,1 +1,4 @@
-"# py_delme_login" 
+# py_delme_login 
+    py -m virtualenv venv
+    venv\Scripts\activate
+    pip install -r requirements.txt
